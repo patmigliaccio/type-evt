@@ -1,0 +1,17 @@
+{
+  "name": "type-evt",
+  "version": "0.0.1",
+  "description": "A stupid simple event subscriber for TypeScript",
+  "license": "MIT",
+  "author": {
+    "name": "Pat Migliaccio",
+    "email": "pat@patmigliaccio.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patmigliaccio/type-evt.git"
+  },
+  "devDependencies": {
+    "typescript": "^2.1.6"
+  }
+}
